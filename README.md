@@ -105,6 +105,10 @@ You can push cleaned data to AWS S3 for cloud storage:
 ```bash
 aws s3 cp data.csv s3://your-bucket-name/
 ```
-📜 License
+Sample Dashboard: 
+![DashBoard](dashboard1.png)
+![DashBoard](dashboard2.png)
+
+
+- 📜 License
 This project is licensed under the MIT License.
-```
