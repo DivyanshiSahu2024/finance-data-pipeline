@@ -1,0 +1,10 @@
+pandas
+yfinance
+mysql-connector-python
+SQLAlchemy
+pymysql
+boto3
+python-dotenv
+matplotlib
+seaborn
+jupyterlab
